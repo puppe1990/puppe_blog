@@ -1,7 +1,9 @@
 module.exports = {
   siteMetadata: {
     title: `Blog Matheus Nunes Puppe`,
-    description: `A blog for developers and much more.`,
+    position: `Backend Developer`,
+    description: `Trabalho no eccomerce de moda feminina Purchase Store e desenvolvi um ERP para controlar estoque por QR Code.
+    Escrevo sobre programação, cloud, produtividade e livros.`,
     author: `@matheus.puppe`,
   },
   plugins: [
